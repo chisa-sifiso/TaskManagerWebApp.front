@@ -58,7 +58,7 @@
 <p>The frontend includes basic CSS styling. To modify styles, edit the CSS files located in the <code>src/</code> folder. For the form, custom styles are applied in <code>TaskForm.css</code>.</p>
 
 <h2>🤝 Contributing</h2>
-<p>Feel free to fork the repository and submit pull requests for any improvements or features you'd like to add.</p>
+<p>Sifiso vinjwa .</p>
 
 <h2>📄 License</h2>
 <p>This project is licensed under the MIT License.</p>
